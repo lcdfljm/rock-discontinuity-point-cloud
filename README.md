@@ -24,4 +24,5 @@ If you use this dataset, please cite this repository or the related study.
 
 ## License
 
-This dataset is released for academic research and non-commercial use.
+The point cloud dataset is released under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). It is provided for academic research and non-commercial use.
+
